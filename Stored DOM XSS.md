@@ -18,10 +18,15 @@ This generates the following html code:
 
  We can try the payload:
  
-</title><img src=1 onerror=alert()
+</img src=1 onerror=alert()>
  ____________
  
+ ![Alt Text (Description of the image)](image3.png)
 
+ ___________
+ It pops like this:
+
+  ![Alt Text (Description of the image)](image.png)
  
  
  
