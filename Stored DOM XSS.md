@@ -7,9 +7,21 @@ ___________________
  ____________
  Hah it is possible post a comments:
 
- ![Alt Text (Description of the image)](image.png)
+ 
+![Alt Text](Screenshot%202025-10-18%20151833.png)
+ ______________
+This generates the following html code:
+
+
+ ![Alt Text (Description of the image)](image1.png)
  _______________
- This generates the following html code:
+
+ We can try the payload:
+ 
+</title><img src=1 onerror=alert()
+ ____________
+ 
+
  
  
  
