@@ -7,6 +7,9 @@ ___________________
  ____________
  Hah it is possible post a comments:
 
- ![Alt Text (Description of the image)]()
+ ![Alt Text (Description of the image)](image.png)
+ _______________
+ This generates the following html code:
+ 
  
  
