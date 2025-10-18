@@ -6,6 +6,7 @@ ___________________
 [https://portswigger.net/web-security/cross-site-scripting/dom-based](https://portswigger.net/web-security/cross-site-scripting/dom-based)
  ____________
  Hah it is possible post a comments:
- 
+
+ ![Alt Text (Description of the image)]()
  
  
