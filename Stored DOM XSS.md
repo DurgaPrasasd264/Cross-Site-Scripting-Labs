@@ -13,7 +13,7 @@ ___________________
 This generates the following html code:
 
 
- ![Alt Text (Description of the image)](image1.png)
+ ![Alt Text (Description of the image)](image2.png)
  _______________
 
  We can try the payload:
