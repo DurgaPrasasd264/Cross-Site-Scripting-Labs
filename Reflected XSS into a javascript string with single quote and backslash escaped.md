@@ -5,24 +5,13 @@
 
 images/Reflected XSS into a javascript  string with single quote and backslash escaped/image1.png
 
-![image](images/Reflected%20XSS%20into%20a%20javascript%20string%20with%20single%20quote%20and%20backslash%20escaped/image1.png)
-
-
-
-![image](images/Reflected%20XSS%20into%20a%20javascript%20string%20with%20single%20quote%20and%20backslash%20escaped/image2.png)
-
-
-
-
-
-![image](images/Reflected%20XSS%20into%20a%20javascript%20string%20with%20single%20quote%20and%20backslash%20escaped/image4.png)
+![alt text ()](images/Reflected%20XSS%20into%20a%20javascript%20string%20with%20single%20quote%20and%20backslash%20escaped/image1.png)
 
 
 
 
 
 
-![image](images/Reflected%20XSS%20into%20a%20javascript%20string%20with%20single%20quote%20and%20backslash%20escaped/image5.png)
 
 
 
