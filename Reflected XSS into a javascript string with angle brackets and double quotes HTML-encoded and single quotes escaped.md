@@ -4,6 +4,8 @@
 
 
 
+![alt text ()](images/Reflected%20XSS%20into%20HTML/image1.png)
+
 
 
 
